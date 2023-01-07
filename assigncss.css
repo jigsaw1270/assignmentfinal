@@ -1,0 +1,219 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    
+}
+/* banner sec */
+.banner{
+    
+    background-image: url(/images/banner/banner1.png);
+    width: 1700px;
+height: 808px;
+   background-size: cover ;
+   background-repeat: no-repeat;
+   
+   
+}
+.banner-tittle{
+   font-weight: 700;
+font-size: 55px;
+
+color: #151414;
+text-align: right;
+padding-top: 350px;
+padding-right: 190px;
+}
+.banner-des{
+    font-weight: 400;
+font-size: 16px;
+text-align: right;
+color: #444343;
+padding-top: 24px ;
+padding-right: 190px;
+}
+.btn-main{
+   float: right;
+    padding: 20px 25px;
+    color: white;
+    font-weight: 600;
+font-size: 20px;
+margin-top: 24px;
+margin-right: 190px;
+width: 160px;
+height: 64px;
+background: #F15B22;
+border-radius: 5px;
+border: none;
+
+}
+
+/* content area */
+.content{
+    display: flex;
+}
+.person{
+   margin-top: 100px;
+   margin-right: 90px;
+   margin-left: 250px;
+
+}
+.textleft{
+    margin-top: 280px;
+}
+ul{ 
+    
+    list-style: none;
+    margin-top: 20px;
+    margin-left: -40px;
+}
+.points{
+    color: #444343; 
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+.content-main{
+    font-weight: 400;
+    font-size: 16px;
+    
+    color: #444343;
+    
+}
+.content-tittle{
+    font-weight: 800;
+    font-size: 35px;
+    color: #151414;
+    margin-bottom: 20px;
+    /* bonus sec */
+}
+.man{
+    background-color: #F15B22;
+}
+.strongman{
+    display: flex;
+    margin-top: 150px;
+}
+.strongmantext{
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.smtittle{
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 35px;
+    margin-bottom: 15px;
+
+}
+.smconctent{
+    color: aliceblue;
+    font-size: 20px;
+}
+/* plansection */
+.plans-tittle{
+    text-align: center;
+    margin-bottom: 61px;
+    font-weight: 700;
+font-size: 40px;
+}
+.myplans{
+    margin-top: 110px;
+}
+.goal{
+    display: flex;
+    margin-left: 350px;
+    
+    
+}
+.goalcontent{
+    margin-right: 100px;
+   
+
+}
+.imagez{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.goaltittle{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+
+}
+.goal-comment{
+text-align: center;
+font-size: 19px;
+color: #737272;
+}
+.gradient-image{
+    margin : 130px 230px 130px 230px;
+
+    
+    background-image: url(/images/watch.png) , url(/images/gradient2.png);
+    height: 1140;
+    width: 500;
+    
+    background-repeat: no-repeat, no-repeat;
+    background-blend-mode: lighten;
+    padding: 59px 610px 59px 64px;
+}
+.gd-tittle{
+    color: white;
+    font-weight: 800;
+    font-size: 35px;
+}
+.secbutton{
+    margin-top: 20px;
+    background-color: aliceblue;
+    padding: 20px 30px;
+    color: #F15B22;
+    font-weight: 600;
+font-size: 20px;
+border: 0;
+border-radius: 5px;
+}
+/* footer design */
+.foot{
+    display: flex;
+    justify-content: space-between;
+    background: #151414;
+    padding-top:  130px;
+    padding-bottom: 130px;
+}
+.future{
+    padding-left: 210px;
+}
+.future-tittle {
+    color: white;
+    font-weight: 800;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.footer-des , ul{color: white;
+    font-weight: 400;
+    font-size: 12px;
+
+}
+.subscribe{
+    padding-right: 229px;
+}
+.sub-tittle{
+    color: white;
+    font-weight: 600;
+    font-size: 27px;
+    margin-bottom: 20px;
+
+}
+.icons{
+    margin-top: 20px;
+}
+.box{
+  background-color: #151414;
+border-color: white; 
+color: aliceblue;
+padding: 22px 65px 22px 21px;
+}
